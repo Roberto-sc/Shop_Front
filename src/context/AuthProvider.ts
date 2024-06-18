@@ -1,23 +1,23 @@
-import { createContext } from "react";
+// import { createContext } from "react";
 
-const AuthContext = createContext();
+// const AuthContext = createContext();
 
-const AuthProvider = ({children}) =>{
+// const AuthProvider = ({children}) =>{
 
-    return(
-        <AuthContext.Provider
+//     return(
+//         <AuthContext.Provider
         
-            value={{
+//             value={{
 
-            }}
-        >
-            {children}
-        </AuthContext.Provider>
-    )
-}
+//             }}
+//         >
+//             {children}
+//         </AuthContext.Provider>
+//     )
+// }
 
-export AuthProvider {
+// export AuthProvider {
 
-}
+// }
 
-export default AuthContext;
+//export default AuthContext;
