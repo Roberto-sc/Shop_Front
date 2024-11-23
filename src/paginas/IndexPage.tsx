@@ -1,4 +1,3 @@
-import { FooterWithLogo } from "../components/FooterWithLogo";
 import NavBar from "../components/NavBar";
 import HomePage from "./HomePage";
 
@@ -15,7 +14,6 @@ export default function IndexPage() {
 
 
             <div className="h-footer bg-blue-500 w-full">
-                <FooterWithLogo></FooterWithLogo>
             </div>
             </div>
         </>
